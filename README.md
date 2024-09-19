@@ -1,0 +1,1 @@
+<img src="Grafico_de_Pizza.png" alt="Grafico de pizza">
